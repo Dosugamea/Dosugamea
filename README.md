@@ -4,9 +4,7 @@
 - 😄 Another names: ドマオー, Domao, Omado, 保登智乃, どすあ
 - ⚡ Fun fact: I'm full st'u'ck enginner.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dosugamea&count_private=true&show_icons=true" />
-</a>
-<a href="https://wakatime.com">
-  <img width="20%" height="20%" align="right" src="https://wakatime.com/share/@Domao/7cf6980e-93c6-40f1-a162-e6387c0b0106.png" />
-</a>
+|Activities at Github|Recent coding activities|
+|:---:|:---:|
+|[![](https://github-readme-stats.vercel.app/api?username=Dosugamea&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://wakatime.com/share/@Domao/b7705dd1-c42d-4254-8f19-dda1320a96b3.png" width="75%">|
+

@@ -8,5 +8,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dosugamea&count_private=true&show_icons=true" />
 </a>
 <a href="https://wakatime.com">
-  <img width="40%" height="40%" align="right" src="https://wakatime.com/share/@Domao/7cf6980e-93c6-40f1-a162-e6387c0b0106.png" />
+  <img width="20%" height="20%" align="right" src="https://wakatime.com/share/@Domao/7cf6980e-93c6-40f1-a162-e6387c0b0106.png" />
 </a>

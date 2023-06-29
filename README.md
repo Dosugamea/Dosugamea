@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on [Sonolus-uploader](https://github.com/PurplePalette/sonolus-uploader-core/blob/main/README.md).
-- 🌱 I’m currently learning TypeScript.
+- 🔭 I’m currently working on sparkle server for that kirakira fantasy game.
+- 🌱 I’m currently learning domain driven development.
 - 📫 How to reach me: Twitter or Email.
 - 😄 Another names: ドマオー(Domao), お窓(Omado), どすがめあ(Dosugamea), 保登智乃, どすあ
 - ⚡ Fun fact: I'm full st'u'ck enginner.

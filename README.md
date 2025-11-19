@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on sparkle server for that kirakira fantasy game.
 - 🌱 I’m currently learning domain driven development.
 - 📫 How to reach me: Twitter or Email.
-- 😄 Another names: お窓(Omado), どすがめあ(Dosugamea), 保登智乃, どすあ
+- 😄 Another names: お窓(Omado)
 - ⚡ Fun fact: I'm full st'u'ck enginner.
 
 |Activities at Github|Recent coding activities|

@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning domain driven development.
 - 📫 How to reach me: Twitter or Email.
 - 😄 Another names: お窓(Omado)
-- ⚡ Fun fact: I'm full st'u'ck enginner.
+- ⚡ Fun fact: I'm full st'u'ck engineer.
 
 ---
 

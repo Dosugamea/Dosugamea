@@ -4,7 +4,8 @@
 - 😄 Another names: お窓(Omado)
 - ⚡ Fun fact: I'm full st'u'ck enginner.
 
-|Activities at Github|Recent coding activities|
-|:---:|:---:|
-|[![](https://github-readme-stats.vercel.app/api?username=Dosugamea&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://wakatime.com/share/@Domao/b7705dd1-c42d-4254-8f19-dda1320a96b3.png" width="75%">|
+---
 
+| Total coding activities last week | Total LLM activities last week |
+|---|---|
+| [<img src="https://wakatime.com/share/@Domao/b7705dd1-c42d-4254-8f19-dda1320a96b3.png" width="90%"> ](https://wakatime.com/@Domao) | [![Tokscale Stats](https://tokscale.ai/api/embed/Dosugamea/svg?period=week&graph=1&tokens=compact&cost=compact)](https://tokscale.ai/u/Dosugamea?period=week) |
